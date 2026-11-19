@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/gta6-meme-reddit-01.svg)](https://make.fun/bounty/gta6-meme-reddit-01)
+[![rank](https://make.fun/badge/gta6-meme-reddit-01/Shelbyteb/gta6-meme-reddit-01/rank.svg)](https://make.fun/bounty/gta6-meme-reddit-01)
+[![reward](https://make.fun/badge/gta6-meme-reddit-01/Shelbyteb/gta6-meme-reddit-01/reward.svg)](https://make.fun/bounty/gta6-meme-reddit-01)
+
 # The 13-year download — a GTA 6 meme for make.fun
 
 An entry for make.fun's bounty **"Post a GTA 6 meme on Reddit"**
